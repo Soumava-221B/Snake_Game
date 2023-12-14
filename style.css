@@ -39,7 +39,7 @@ body,
 
 #instruction-text {
     position: absolute;
-    top: 60%;
+    top: 43%;
     color: #333;
     width: 300px;
     text-transform: capitalize;
@@ -47,7 +47,7 @@ body,
     margin: 0;
 }
 
-#scores {
+.scores {
     display: flex;
     justify-content: space-between;
 }
@@ -60,4 +60,31 @@ body,
     font-size: 40px;
     font-weight: bolder;
     margin: 10px 0;
+}
+
+#highScore {
+    color: #d8ddca;
+    display: none;
+}
+
+.game-border-3, 
+#logo {
+    background-color: #c4cfa3;
+}
+
+.snake {
+    border: #5a5a5a 1px dotted;
+}
+
+.food {
+    background-color: #dedede;
+    border: #999 5px solid;
+}
+
+#logo {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    /* border: 10px; */
+    border-radius: 20px;
 }
