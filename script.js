@@ -127,19 +127,19 @@ function handleKeyPress(event) {
         startGame();
     } else {
         switch (event.key) {
-            case 'ArrowUp': 
+            case 'w': 
             direction = 'up';
             break;
 
-            case 'ArrowDown': 
+            case 's': 
             direction = 'down';
             break;
 
-            case 'ArrowLeft': 
+            case 'a': 
             direction = 'left';
             break;
 
-            case 'ArrowRight': 
+            case 'd': 
             direction = 'right';
             break;
         }

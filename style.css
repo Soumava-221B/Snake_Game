@@ -40,7 +40,7 @@ body,
 #instruction-text {
     position: absolute;
     text-align: center;
-    top: 42%;
+    top: 35%;
     color: #333;
     width: 300px;
     text-transform: capitalize;
@@ -84,8 +84,9 @@ body,
 
 #logo {
     position: absolute;
-    height: 300px;
-    width: 300px;
+    top: 15%;
+    max-height: 20%;
+    max-width: 20%;
     /* border: 10px; */
     border-radius: 20px;
 }
