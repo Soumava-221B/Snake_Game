@@ -9,6 +9,10 @@ Snake game is an interactive browser game where players control a snake that mov
 <br> ✅ Collision Detection – The game ends if the snake collides with itself or the walls (in certain modes).
 <br> ✅ Score System – Points increase based on food collected, encouraging players to achieve higher scores.
 
+![Screenshot from 2025-02-21 12-13-27](https://github.com/user-attachments/assets/6160c84c-9996-47b2-bb27-b67c16717970)
+
+![Untitled design](https://github.com/user-attachments/assets/9002b75e-72ae-4677-a827-e61b3211eb60)
+
 ## Technologies Used:
 
 <br> • HTML: Provides the game structure.
